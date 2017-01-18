@@ -1,0 +1,10 @@
+{
+    "require" : {
+        "nesbot/carbon" : "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "myapp\\": "app/"
+        }
+    }
+}
